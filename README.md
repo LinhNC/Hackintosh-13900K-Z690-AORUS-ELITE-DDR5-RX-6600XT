@@ -16,6 +16,7 @@
   - Kingston NV2 1TB PCIe Gen4 M.2
 - **Wireless Card:** ASUS PCE-AX3000
 - **Ethernet:** Realtek RTL8125B PCI Express 2.5 Gigabit Ethernet
+- **Monitor:** LG 32UN880-B 32" IPS 4K HDR 10
 - **Additional Hardware:** 
     - **Cooling:** Noctua NH-D15
     
