@@ -10,7 +10,10 @@
   - AMD RX 6600XT
   - GIGABYTE GeForce RTX 3080TI GAMING OC 12G (disabled for dual boot with Windows 11)
 - **RAM:** Kingston Fury Beast Black 64GB 5200MHz DDR5
-- **Storage:** WD Black SN850X 2TB PCIe Gen4 x4 NVMe M.2
+- **Storage:** 
+  - WD Black SN850X 2TB PCIe Gen4 x4 NVMe M.2
+  - Samsung 980 PRO 1TB PCIe NVMe M.2
+  - Kingston NV2 1TB PCIe Gen4 M.2
 - **Wireless Card:** ASUS PCE-AX3000
 - **Ethernet:** Realtek RTL8125B PCI Express 2.5 Gigabit Ethernet
 - **Additional Hardware:** 
