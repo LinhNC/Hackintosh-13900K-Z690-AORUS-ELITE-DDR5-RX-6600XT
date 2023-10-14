@@ -18,8 +18,7 @@
 ## Software Requirements
 ### Operating System
 - **macOS:** macOS Sonoma (14.0 23A344)
-- **SMBIOS**: iMacPro1,1
-The system dual boots macOS and Windows 11
+- **SMBIOS**: iMacPro1,1 with dual boots macOS and Windows 11
 ### Bootloader
 - **Bootloader Software:** OpenCore 0.9.6 MOD
 ## Tools
