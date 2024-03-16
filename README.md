@@ -22,10 +22,10 @@
     
 ## Software Requirements
 ### Operating System
-- **macOS:** macOS Sonoma (14.0 23A344)
+- **macOS:** macOS Sonoma (14.4)
 - **SMBIOS**: iMacPro1,1 with dual boots macOS and Windows 11
 ### Bootloader
-- **Bootloader Software:** OpenCore 0.9.6 MOD
+- **Bootloader Software:** OpenCore 0.9.9 MOD
 ## Tools
 Don't be an idiot and use these great tools instead of wasting your time with propertree or other plist editors:
 - [OpenCore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/) - easy `config.plist` management
