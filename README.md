@@ -25,9 +25,8 @@
 - **macOS:** macOS Sonoma (14.4)
 - **SMBIOS**: iMacPro1,1 with dual boots macOS and Windows 11
 ### Bootloader
-- **Bootloader Software:** 
 - rEFInd 0.14.2
-- OpenCore 1.0.0.0
+- OpenCore 1.0.0
 ## Tools
 Don't be an idiot and use these great tools instead of wasting your time with propertree or other plist editors:
 - [OpenCore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/) - easy `config.plist` management
